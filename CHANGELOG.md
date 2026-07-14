@@ -12,4 +12,4 @@ All notable changes to Issue Scout are documented here.
 - Table, JSON, and CSV output formats.
 - Automated tests across Python 3.10 through 3.13.
 
-[0.1.0]: https://github.com/Wei8007/issue-scout/releases/tag/v0.1.0
+[0.1.0]: https://github.com/Silvren/issue-scout/releases/tag/v0.1.0

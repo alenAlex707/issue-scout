@@ -1,6 +1,6 @@
 # Issue Scout
 
-[![Tests](https://github.com/Wei8007/issue-scout/actions/workflows/tests.yml/badge.svg)](https://github.com/Wei8007/issue-scout/actions/workflows/tests.yml)
+[![Tests](https://github.com/Silvren/issue-scout/actions/workflows/tests.yml/badge.svg)](https://github.com/Silvren/issue-scout/actions/workflows/tests.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -13,7 +13,7 @@ Labels such as `good first issue` are useful, but they do not tell the whole sto
 ## Install
 
 ```bash
-git clone https://github.com/Wei8007/issue-scout.git
+git clone https://github.com/Silvren/issue-scout.git
 cd issue-scout
 python -m pip install -e .
 ```
@@ -95,4 +95,3 @@ Issue Scout helps with discovery only. Before working on a result:
 ## License
 
 [MIT](LICENSE)
-
